@@ -31,7 +31,7 @@ Selamat Repository anda telah berhasil dibuat
 
 
 9. ### lakukan penegditan pada file 
-10.### Tekan tombol Commit changes untuk menyimpan perubahan
+10. ### Tekan tombol Commit changes untuk menyimpan perubahan
 
 
 
