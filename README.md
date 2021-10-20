@@ -12,11 +12,29 @@
 
 4. ### Terdapat pilihan untuk akses dari repository anda, pilih publik agar dapat dilihat oleh orang lain
 
-5. ### kemudian create Repository
+5. ### Pilih Add a README File untuk menambahkan file README pada repository yang akan dibuat
+
+6. ### kemudian create Repository
 
 
-![Screenshot (793)](https://user-images.githubusercontent.com/68369708/138087232-7997065e-4b5a-4ed3-857a-918243a44b62.png)
+![Uploading Screenshot (793) - Copy.png…]()
 
 
 Selamat Repository anda telah berhasil dibuat
 
+
+7. ### Pada website akan muncul repository anda beserta file README
+8. ### kemudian pilih edit file README pada tombol di sebelah kanan
+
+
+![Uploading Screenshot (797).png…]()
+
+
+10. ### lakukan penegditan pada file 
+11.### Tekan tombol Commit changes untuk menyimpan perubahan
+
+
+
+![Screenshot (798)](https://user-images.githubusercontent.com/68369708/138090596-925e1ecb-9c60-4592-8611-bcb1643e50fb.png)
+
+File README berhasil diubah
