@@ -17,7 +17,7 @@
 6. ### kemudian create Repository
 
 
-![Uploading Screenshot (793) - Copy.png…]()
+![Screenshot (793) - Copy](https://user-images.githubusercontent.com/68369708/138090757-e8d6fb4a-eacb-4db5-9fca-551753c3d0bf.png)
 
 
 Selamat Repository anda telah berhasil dibuat
@@ -27,11 +27,11 @@ Selamat Repository anda telah berhasil dibuat
 8. ### kemudian pilih edit file README pada tombol di sebelah kanan
 
 
-![Uploading Screenshot (797).png…]()
+![Screenshot (797)](https://user-images.githubusercontent.com/68369708/138090928-29544e3c-3406-46ea-b718-96659adb26d9.png)
 
 
-10. ### lakukan penegditan pada file 
-11.### Tekan tombol Commit changes untuk menyimpan perubahan
+9. ### lakukan penegditan pada file 
+10.### Tekan tombol Commit changes untuk menyimpan perubahan
 
 
 
